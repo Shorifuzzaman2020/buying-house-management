@@ -27,7 +27,7 @@
     <section>
         <center>
             <br>
-            <h1>The POS Software is a Medicine Shop Management System designed to help users manage their medicine shops efficiently.</h1>
+            <h1>The POS Software is a Buying House Management System designed to help users manage their Buying House efficiently.</h1>
 </center>
         <h2>Features of DMEDICINA POS:</h2>
         <ul>
